@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Book Style
-date: 2015-08-28
+title: 开篇引言
+date: 2016-02-07
 tags: english
 category: blog
 ---
