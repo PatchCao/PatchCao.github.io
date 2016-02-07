@@ -5,7 +5,7 @@ avatar: /assets/img/avatar.jpg
 favicon: /assets/img/favicon.ico
 
 about:
-  - paragraph: A Man who travels the world writing codes
+  - paragraph: A Man who travels the world writing codes.
     text_align: center
     links:
       - name: Patch Cao · Home
