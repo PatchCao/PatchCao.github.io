@@ -1,0 +1,14 @@
+title: Patch Cao
+description: Sharing knowledge&thoughts born of my life
+url: http://PatchCao.github.io
+avatar: /assets/img/avatar.jpg
+favicon: /assets/img/favicon.ico
+
+about:
+  - paragraph: ?link?, a simple Life. Built by ?link?
+    text_align: center
+    links:
+      - name: Patch Cao
+        url: http://PatchCao.github.io
+        external: true
+    
