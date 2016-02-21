@@ -10,10 +10,10 @@ category: blog
 spring boot自动加载静态资源的地址
 -----------
 
-> /META-INF/resources/  
-> /resources/  
-> /static/  
-> /public/
+* /META-INF/resources/  
+* /resources/  
+* /static/  
+* /public/
   
   
 可以从[WebMvcAutoConfiguration](http://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.html)找到以下的源码  
