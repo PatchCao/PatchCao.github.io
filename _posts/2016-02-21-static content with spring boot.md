@@ -19,5 +19,5 @@ spring boot自动加载静态资源的地址
 可以从[WebMvcAutoConfiguration](http://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/autoconfigure/web/WebMvcAutoConfiguration.html)找到以下的源码  
 
 <pre><code>private static final String[] CLASSPATH_RESOURCE_LOCATIONS = {
-		            "classpath:/META-INF/resources/", "classpath:/resources/",
-		            "classpath:/static/", "classpath:/public/" };</code></pre>
+		   "classpath:/META-INF/resources/", "classpath:/resources/",
+		   "classpath:/static/", "classpath:/public/" };</code></pre>
